@@ -7,7 +7,7 @@ let str = `Hai ${conn.getName(m.sender)} Mau Sewa?
 ┏━━〔 ıll HARGA llı 〕━
 ┃⌬ 4K PERMANEN
 ┃⌬ VIA DANA/GOPAY
-┃⌬ VIA QRIS {+5K}
+┃⌬ VIA QRIS 
 ┗━━━━━━━━━━━━━㉿
 ┏━━〔 ıll KELEBIHAN llı 〕━
 ◎ BOT ON 24 JAM NONSTOP
