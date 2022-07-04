@@ -2,7 +2,7 @@ import fetch from 'node-fetch'
 let handler = async(m, { conn, text, usedPrefix, command }) => {
 let pp = await conn.profilePictureUrl(m.chat).catch(_ => null)
 
-let str = `JOIN DONG\nhttps://chat.whatsapp.com/GyKM8sqX8A2DQD4p3ZJUWz\n_SEMOGA BETAH_`
+let str = `JOIN DONG\nhttps://chat.whatsapp.com/Bvq8eYX0oFiCmuswraBgkk\n_SEMOGA BETAH_`
 conn.sendButtonDoc(m.chat, str, wm, 'Owner','.owner', ftextt, m)
 }
 handler.command = handler.help = ['gcbott']
