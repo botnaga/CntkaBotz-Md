@@ -17,7 +17,7 @@ let str = `Hai ${conn.getName(m.sender)} Mau Sewa?
 ◎ MINAT? HUBUNGI OWNER
 ┗━━━━━━━━━━━━━
    ♡ ㅤ     ❍ㅤ       ⎙ㅤ       ⌲ `
-conn.sendHydrated(m.chat, str, wm, pepe, 'https://instagram.com/itsme_nitsu', 'IG OWNER', null, null, [
+conn.sendHydrated(m.chat, str, wm, pepe, 'https://instagram.com/playshop.online.id', 'IG OWNER', null, null, [
 ['OWNER', '/owner']
 ], m)
 
