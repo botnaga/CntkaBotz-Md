@@ -9,9 +9,9 @@ let thumb = await(await fetch(wibu)).buffer()
 user.afk = + new Date
 user.afkReason = text
  conn.sendButtonDoc(m.chat, `${conn.getName(m.sender)} is now AFK${text ? ': ' + text : ''}`, wm, 'Jangan Ganggu Ya', 'Bilek', m,  { contextInfo: { externalAdReply: { showAdAttribution: true,
-        mediaUrl: "https://Instagram.com/bot_whangsaf",
+        mediaUrl: "https://www.instagram.com/playshop.online.id/",
         mediaType: "VIDEO",
-        description: "https://Instagram.com/bot_whangsaf", 
+        description: "https://www.instagram.com/playshop.online.id/", 
         title: 'Simple Bot Esm',
         body: wm,
         thumbnail: thumb,
